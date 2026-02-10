@@ -120,9 +120,9 @@ expense-tracker list
 ┌────┬────────────┬─────────────┬─────────┐
 │ ID │ Date       │ Description │ Amount  │
 ├────┼────────────┼─────────────┼─────────┤
-│ 1  │ 2024-08-06 │ Lunch       │ $20.00  │
-│ 2  │ 2024-08-06 │ Coffee      │ $5.50   │
-│ 3  │ 2024-08-07 │ Dinner      │ $35.00  │
+│ 1  │ 2026-02-06 │ Lunch       │ $20.00  │
+│ 2  │ 2026-02-06 │ Coffee      │ $5.50   │
+│ 3  │ 2026-01-07 │ Dinner      │ $35.00  │
 └────┴────────────┴─────────────┴─────────┘
 ```
 
@@ -297,7 +297,7 @@ Contributions are what make the open-source community amazing! Any contributions
 
 --->
 
-### Made with ❤️ by Your Name | 2024
+### Made with ❤️ by Akshat Srivastava | 2026
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
